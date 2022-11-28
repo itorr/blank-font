@@ -4,6 +4,8 @@
 
 覆盖了常用中日韩英数字符号，遇到未匹配字符欢迎反馈 [#1](https://github.com/itorr/blank-font/issues/1)
 
+ - 不支持 Emoji
+ - 不支持盲文
 
 ## 安装
 ```bash
