@@ -2,6 +2,9 @@
 
 一个防止字体回退到系统默认字体的空白字体，可以让未匹配字型呈空白显示。
 
+覆盖了常用中日韩英数字符号，遇到未匹配字符欢迎反馈 (#1)[https://github.com/itorr/blank-font/issues/1]
+
+
 ## 安装
 ```bash
 npm i blank-font
