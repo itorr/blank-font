@@ -1,0 +1,24 @@
+{
+  "name": "blank-font",
+  "description": "😶「防回退空白字体」a prevent fallback blank font",
+  "version": "0.0.1",
+  "main": "blank.font.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itorr/blank-font.git"
+  },
+  "files": [
+    "blank.font.css",
+    "blank.woff2"
+  ],
+  "keywords": [
+    "font",
+    "fallback"
+  ],
+  "author": "itorr <https://github.com/itorr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itorr/blank-font/issues"
+  },
+  "homepage": "https://github.com/itorr/blank-font/"
+}
