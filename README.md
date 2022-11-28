@@ -6,6 +6,9 @@
 
  - 不支持 Emoji
  - 不支持盲文
+ - 有大体正常的字符宽度
+
+需要不占宽度的空白字体可以去看看 [adobe-blank](https://github.com/adobe-fonts/adobe-blank)
 
 ## 安装
 ```bash
