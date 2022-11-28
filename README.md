@@ -22,5 +22,8 @@ import 'blank-font'
 }
 ```
 
+## 使用例
+https://lab.magiconch.com/eva-title/
+
 ## GitHub
 https://github.com/itorr/blank-font
