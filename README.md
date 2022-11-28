@@ -17,7 +17,7 @@ import 'blank-font'
 
 或
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/blank-font@0.0.1/blank.font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/blank-font@0.0.2/blank.font.css">
 ```
 
 ## 使用

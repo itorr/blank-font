@@ -1,7 +1,7 @@
 {
   "name": "blank-font",
   "description": "😶「防回退空白字体」a prevent fallback blank font",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "blank.font.css",
   "repository": {
     "type": "git",
